@@ -82,7 +82,7 @@ export const WETH = {
   [ChainId.KOVAN]: new Token(ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.BINANCE]: new Token(ChainId.BINANCE, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
   [ChainId.BINANCETEST]: new Token(ChainId.BINANCETEST, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
-  [ChainId.RSK]: new Token(ChainId.RSK, '0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0', 18, 'WrBTC', 'Wrapped rBTC'),
+  [ChainId.RSK]: new Token(ChainId.RSK, '0xFa26ecdA879AC88AfD047cc6e046E85B9aFBa2CC', 18, 'WrBTC', 'Wrapped rBTC'),
   [ChainId.RSKTEST]: new Token(ChainId.RSKTEST, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
   [ChainId.XDAI]: new Token(ChainId.XDAI, '0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d', 18, 'WXDAI', 'Wrapped XDAI'),
   [ChainId.POLYGON]: new Token(ChainId.POLYGON, '0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270', 18, 'WMATIC', 'Wrapped Matic'),
