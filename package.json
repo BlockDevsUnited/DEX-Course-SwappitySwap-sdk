@@ -1,7 +1,7 @@
 {
   "name": "@udotcash/u-exchange-sdk",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🛠 An SDK for building applications on top of U.EXCHANGE.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -66,5 +66,5 @@
   "directories": {
     "test": "test"
   },
-  "author": "antron3000"
+  "author": "udotcash"
 }
