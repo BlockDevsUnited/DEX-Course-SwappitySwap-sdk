@@ -46,6 +46,10 @@ export class Currency {
       ETHER.name = "Matic"
       ETHER.symbol = "MATIC"
     }
+    if(cId==30){
+      ETHER.name = "Smart Bitcoin"
+      ETHER.symbol = "RBTC"
+    }
   }
 }
 
