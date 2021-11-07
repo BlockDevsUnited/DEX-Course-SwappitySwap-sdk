@@ -50,6 +50,10 @@ export class Currency {
       ETHER.name = "Smart Bitcoin"
       ETHER.symbol = "RBTC"
     }
+    if(cId==31){
+      ETHER.name = "Smart Bitcoin"
+      ETHER.symbol = "tRBTC"
+    }
   }
 }
 
