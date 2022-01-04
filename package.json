@@ -1,8 +1,8 @@
 {
-  "name": "@udotcash/u-exchange-sdk",
+  "name": "@violeta.at.bww/swappityswap",
   "license": "MIT",
-  "version": "1.0.4",
-  "description": "🛠 An SDK for building applications on top of U.EXCHANGE.",
+  "version": "10.0.0",
+  "description": "🛠 An SDK for building applications on top of SwappitySwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antron3000/u-exchange-sdk.git"
+    "url": "git+https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-sdk.git"
   },
   "keywords": [
     "u-exchange",
@@ -60,11 +60,11 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/UdotCASH/u-exchange-sdk/issues"
+    "url": "https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-sdk/issues"
   },
-  "homepage": "https://github.com/UdotCASH/u-exchange-sdk#readme",
+  "homepage": "https://github.com/BlockDevsUnited/DEX-Course-SwappitySwap-sdk#readme",
   "directories": {
     "test": "test"
   },
-  "author": "udotcash"
+  "author": "DEX-Course"
 }
